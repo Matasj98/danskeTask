@@ -1,0 +1,6 @@
+1.) 8
+2.) Open windows terminal and type ipConfig. 
+3.) It should work just to delete the whole folder and then remove it from
+control panel. It should say something like that program is already removed then.
+Because if there is no folder the pc suggest that the program is gone. Then 
+you can install new one.
